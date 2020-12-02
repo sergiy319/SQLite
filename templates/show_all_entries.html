@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>show_data</title>
+</head>
+<body>
+
+<ul>{% for add in show_data %}</ul>
+
+    <li>id:{{ add[0] }} title: {{ add[1] }} description: {{ add[2] }} date: {{ add[3] }}</li>
+
+{% endfor %}
+
+</body>
+</html>
+
+
