@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc351ae3-2119-446e-b308-dbf4d4416d92" name="Default Changelist" comment="" />
+    <list default="true" id="cc351ae3-2119-446e-b308-dbf4d4416d92" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/show_all_entries.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -18,14 +26,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kpc3RGRWzYbXezQXcS8k0mOCA0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -65,34 +78,7 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="333" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606723926861">
-      <screen x="0" y="25" width="1280" height="713" />
-    </state>
-    <state x="333" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1280.713@0.25.1280.713" timestamp="1606723926861" />
-    <state x="312" y="75" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606822402419">
-      <screen x="0" y="25" width="1280" height="713" />
-    </state>
-    <state x="312" y="75" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1280.713@0.25.1280.713" timestamp="1606822402419" />
-    <state width="1254" height="152" key="GridCell.Tab.0.bottom" timestamp="1606822524111">
-      <screen x="0" y="25" width="1280" height="713" />
-    </state>
-    <state width="1254" height="152" key="GridCell.Tab.0.bottom/0.25.1280.713@0.25.1280.713" timestamp="1606822524111" />
-    <state width="1254" height="152" key="GridCell.Tab.0.center" timestamp="1606822524110">
-      <screen x="0" y="25" width="1280" height="713" />
-    </state>
-    <state width="1254" height="152" key="GridCell.Tab.0.center/0.25.1280.713@0.25.1280.713" timestamp="1606822524110" />
-    <state width="1254" height="152" key="GridCell.Tab.0.left" timestamp="1606822524109">
-      <screen x="0" y="25" width="1280" height="713" />
-    </state>
-    <state width="1254" height="152" key="GridCell.Tab.0.left/0.25.1280.713@0.25.1280.713" timestamp="1606822524109" />
-    <state width="1254" height="152" key="GridCell.Tab.0.right" timestamp="1606822524111">
-      <screen x="0" y="25" width="1280" height="713" />
-    </state>
-    <state width="1254" height="152" key="GridCell.Tab.0.right/0.25.1280.713@0.25.1280.713" timestamp="1606822524111" />
-    <state x="39" y="25" key="SettingsEditor" timestamp="1606820277736">
-      <screen x="0" y="25" width="1280" height="713" />
-    </state>
-    <state x="39" y="25" key="SettingsEditor/0.25.1280.713@0.25.1280.713" timestamp="1606820277736" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
